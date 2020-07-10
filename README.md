@@ -1,2 +1,2 @@
-# flutter_moda_app
- Flutter ile moda uygulaması arayüzü
+# Flutter Moda Uygulaması
+ Flutter ile basit bir moda uygulaması arayüzü
